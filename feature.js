@@ -1,1 +1,1 @@
-console.log('Javascript Feature');
+console.log('New Javascript Feature');
